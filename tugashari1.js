@@ -16,7 +16,6 @@ let totalNick = 0;
 let day = 1;
 
 while (day <= 5) {
-    // Tambahkan total setiap hari
     totalJudy += judyHri;
     totalNick += nickHri;
 
