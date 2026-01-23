@@ -1,4 +1,4 @@
-#TUGAS_GDEV_AlfinWI
+# TUGAS_GDEV_AlfinWI
 
 FOLDER WEEK 1 - Gidthub:
 - TUGAS - tugasw1.js
