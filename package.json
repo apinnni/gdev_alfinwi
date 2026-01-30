@@ -1,0 +1,17 @@
+{
+  "name": "week4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "week4.js",
+  "scripts": {
+    "start": "node week4.js",
+    "dev": "nodemon week4.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
