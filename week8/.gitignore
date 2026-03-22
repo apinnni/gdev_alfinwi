@@ -1,0 +1,28 @@
+# Node modules (WAJIB)
+node_modules/
+
+# Environment variables (WAJIB)
+.env
+
+# Prisma database (SQLite)
+prisma/dev.db
+prisma/dev.db-journal
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# TypeScript cache
+*.tsbuildinfo
