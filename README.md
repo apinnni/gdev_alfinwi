@@ -12,3 +12,6 @@ FOLDER WEEK 4 - Node.js
 
 FOLDER WEEK 5 - EXPRESS JS dan REST API
 - Tugas - week5.ts
+
+FOLDER WEEK 8 - CRUD API
+- Tugas - src/
